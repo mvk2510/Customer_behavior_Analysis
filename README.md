@@ -131,10 +131,3 @@ Data visualization and storytelling
 
 Business-focused analytical thinking
 
-If you want, I can also:
-
-Tailor this README to a specific project (churn, sales, customer behavior)
-
-Shorten it for GitHub recruiters
-
-Align it with Power BI or Tableau specifically
